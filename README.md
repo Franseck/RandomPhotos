@@ -4,3 +4,5 @@ setTimeOut() & setInterval()
 fetch()
 .then() & .catch()
 Js DOM
+
+https://franseck.github.io/RandomPhotos/
